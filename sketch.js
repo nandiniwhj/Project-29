@@ -7,7 +7,7 @@ var engine, world;
 var holder,ball,ground;
 var stand1,stand2;
 var ball;
-var slingShot;
+var slingshot;
 var polygon_img, polygon;
 function preload(){
   polygon_img=loadImage("polygon.png");
