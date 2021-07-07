@@ -43,7 +43,7 @@ function setup() {
   //top
   block16 = new Block(390,155,30,40);
 
-  slingshot = new SlingShot(polygon.body,{x:200, y:50});
+  slingShot = new SlingShot(polygon.body,{x:200, y:50});
    
   polygon= new Polygon(50,200,20)
   polygon.addImage(polygon_img)
